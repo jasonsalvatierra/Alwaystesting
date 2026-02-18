@@ -1,5 +1,5 @@
 /* ============================================
-   APEX TRAINING — Nike-Inspired Design System
+   APEX LEARNING — Bold L&D Design System
    ============================================ */
 
 *, *::before, *::after {
@@ -250,7 +250,7 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   inset: 0;
   background:
     linear-gradient(135deg, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.65) 100%),
-    url('https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=1600&q=80') center/cover no-repeat;
+    url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1600&q=80') center/cover no-repeat;
   transform: scale(1.03);
   animation: heroZoom 16s ease-in-out infinite alternate;
 }
@@ -729,7 +729,7 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   background: var(--black);
   background-image:
     linear-gradient(135deg, rgba(229,9,20,0.15) 0%, transparent 60%),
-    url('https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=1600&q=80') center/cover no-repeat;
+    url('https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1600&q=80') center/cover no-repeat;
   padding: clamp(5rem, 10vw, 9rem) clamp(1.5rem, 6vw, 4rem);
   text-align: center;
   position: relative;

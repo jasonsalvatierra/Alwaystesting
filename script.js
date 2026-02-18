@@ -1,5 +1,5 @@
 /* ============================================
-   APEX TRAINING — Interactive Scripts
+   APEX LEARNING — Interactive Scripts
    ============================================ */
 
 'use strict';
